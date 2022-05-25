@@ -35,6 +35,7 @@ if number %3 == 0:
 if number %3 != 0:
   print("not divisible by 3")
   
-  
+elif number == 0:
+  print("zero")
   
   
